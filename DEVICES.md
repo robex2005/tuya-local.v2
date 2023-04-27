@@ -82,6 +82,7 @@
 - BHT-002-GALW thermostat _(rebadged as many different brands)_
 - ETOP-HP thermostat (CH7100)
 - ETOP-HT thermostat
+- PNI CT400 gateway (with 2x ETOP-HT-01AC subdevices connected)
 - Hysen HY08ACF thermostat
 - Hysen HY08WE-2 thermostat
 - Inkbird ITC306A thermostat smartplug
