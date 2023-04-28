@@ -119,7 +119,7 @@ below](#finding-your-device-id-and-local-key).
 
 #### get_device_id
 
-&nbsp;&nbsp;&nbsp;&nbsp;_(string) (Not Required)_ Enter subdevice ID (CID) connected thru the gateway
+&nbsp;&nbsp;&nbsp;&nbsp;_(string) (Not Required)_ Enter subdevice ID (CID) connected thru the gateway. To connect a subdevice, you must specify subdevice ID, local key of the gateway and CID of subdevice
 
 At the end of this step, an attempt is made to connect to the device and see if
 it returns any data. For tuya protocol version 3.1 devices, the local key is
